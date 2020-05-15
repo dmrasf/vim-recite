@@ -22,6 +22,7 @@ let g:recite_default_keybindings = 0
 
 File path
 ```vim
-let g:recite_default_storage = ''
+" default
+let g:recite_default_storage = '/home/../Documents/recite'
 ```
 
